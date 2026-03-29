@@ -1,29 +1,43 @@
-# NYC Subway Analysis
+# 🚇 NYC Subway Ridership Analysis
 
-## Overview
-This project analyzes New York City subway data to identify patterns in ridership, delays, and system performance. The goal is to explore how one of the world’s largest transit systems behaves under real-world conditions.
+## 📊 Overview
+This project analyzes New York City subway ridership trends using real-world data from NYC Open Data. The goal was to explore how ridership changed over time, with a focus on the impact of COVID-19.
 
-## Objectives
-- Identify busiest subway stations and lines
-- Analyze peak usage times
-- Explore delay patterns across the system
-- Build insights into reliability and congestion
+---
 
-## Tools
-- Python (data analysis and scripting)
-- Pandas (data manipulation)
-- Matplotlib / Seaborn (data visualization)
+## 🎯 Key Insight
+NYC subway ridership experienced a dramatic collapse in March 2020 due to COVID-19, dropping from over 5 million daily riders to under 500,000. While ridership has gradually recovered, it remains below pre-pandemic levels.
 
-## Project Structure
-This project will be developed in stages:
-1. Data collection and cleaning
-2. Exploratory data analysis
-3. Visualization of key patterns
-4. Basic predictive modeling
+---
 
-## Status
+## 📈 Visualization
 
-Project in progress. Currently in the data collection and exploratory analysis phase.
+![NYC Subway Ridership Chart](your-image-link-here)
 
-## Why This Project
-New York City’s subway system is a complex, high-volume network. Understanding its patterns provides insight into real-world systems, data analysis, and urban infrastructure.
+---
+
+## 🧠 What I Did
+- Pulled real-time data from NYC Open Data
+- Cleaned and processed time-series data using Python (Pandas)
+- Created a 7-day rolling average to smooth trends
+- Built visualizations using Matplotlib
+- Identified and interpreted major real-world patterns
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## 📁 Project Structure
+- `notebook.ipynb` → main analysis
+- `README.md` → project overview
+
+---
+
+## 🚀 Takeaway
+This project demonstrates how data analysis can reveal real-world events and trends. It highlights the impact of COVID-19 on urban transportation and the gradual recovery of ridership over time.
