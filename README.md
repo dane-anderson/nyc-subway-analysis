@@ -21,7 +21,8 @@ This project analyzes NYC subway ridership trends before and after the COVID-19 
 ## Visualizations
 ### Total Subway Ridership Over Time
 ![Total Ridership](subway_ridership_trend.png)
-
+### Rolling Recovery Percent
+![Rolling Recovery Percent](subway_recovery_percent_rolling.png)
 ### Subway Recovery as % of Pre-Pandemic Ridership
 ![Percent Recovery](subway_recovery_percent_rolling.png)
 
