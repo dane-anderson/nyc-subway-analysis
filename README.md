@@ -11,10 +11,9 @@ NYC subway ridership experienced a dramatic collapse in March 2020 due to COVID-
 ---
 
 ## 📈 Visualization
+<img width="1200" height="600" alt="ridership_chart" src="https://github.com/user-attachments/assets/10052f2e-846c-4bc3-b834-d1793f854056" />
 
-![ridership_chart](ridership_chart.png)
 
----
 
 ## 🧠 What I Did
 - Pulled real-time data from NYC Open Data
@@ -41,3 +40,4 @@ NYC subway ridership experienced a dramatic collapse in March 2020 due to COVID-
 
 ## 🚀 Takeaway
 This project demonstrates how data analysis can reveal real-world events and trends. It highlights the impact of COVID-19 on urban transportation and the gradual recovery of ridership over time.
+
