@@ -12,7 +12,7 @@ NYC subway ridership experienced a dramatic collapse in March 2020 due to COVID-
 
 ## 📈 Visualization
 
-![NYC Subway Ridership Chart](your-image-link-here)
+![ridership_chart](ridership_chart.png)
 
 ---
 
