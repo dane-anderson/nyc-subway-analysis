@@ -10,9 +10,9 @@ This project analyzes New York City subway data to identify patterns in ridershi
 - Build insights into reliability and congestion
 
 ## Tools
-- Python
-- Pandas
-- Matplotlib / Seaborn
+- Python (data analysis and scripting)
+- Pandas (data manipulation)
+- Matplotlib / Seaborn (data visualization)
 
 ## Project Structure
 This project will be developed in stages:
@@ -23,7 +23,7 @@ This project will be developed in stages:
 
 ## Status
 
-Project in progress – initial data collection and analysis phase.
+Project in progress. Currently in the data collection and exploratory analysis phase.
 
 ## Why This Project
 New York City’s subway system is a complex, high-volume network. Understanding its patterns provides insight into real-world systems, data analysis, and urban infrastructure.
