@@ -1,43 +1,28 @@
-# 🚇 NYC Subway Ridership Analysis
+# NYC Subway Ridership Recovery Analysis
 
-## 📊 Overview
-This project analyzes New York City subway ridership trends using real-world data from NYC Open Data. The goal was to explore how ridership changed over time, with a focus on the impact of COVID-19.
+This project analyzes NYC subway ridership trends before and after the COVID-19 pandemic. Using daily MTA data, it visualizes both the overall ridership trend and the percent recovery compared to pre-pandemic levels.
 
----
+## Project Goals
+- Track how subway ridership changed over time
+- Visualize recovery relative to pre-pandemic baselines
+- Highlight trends with a 30-day rolling average
 
-## 🎯 Key Insight
-NYC subway ridership experienced a dramatic collapse in March 2020 due to COVID-19, dropping from over 5 million daily riders to under 500,000. While ridership has gradually recovered, it remains below pre-pandemic levels.
-
----
-
-## 📈 Visualization
-<img width="1200" height="600" alt="ridership_chart" src="https://github.com/user-attachments/assets/10052f2e-846c-4bc3-b834-d1793f854056" />
-*Subway ridership collapsed sharply in March 2020 and has only partially recovered, highlighting lasting changes in urban mobility.*
-
-
-## 🧠 What I Did
-- Pulled real-time data from NYC Open Data
-- Cleaned and processed time-series data using Python (Pandas)
-- Created a 7-day rolling average to smooth trends
-- Built visualizations using Matplotlib
-- Identified and interpreted major real-world patterns
-
----
-
-## 🛠️ Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
 
----
+## Key Insights
+- Subway ridership dropped sharply in early 2020
+- Recovery has been gradual, with fluctuations
+- 30-day rolling average smooths daily volatility and shows the overall trend clearly
 
-## 📁 Project Structure
-- `notebook.ipynb` → main analysis
-- `README.md` → project overview
+## Visualizations
+### Total Subway Ridership Over Time
+![Total Ridership](subway_ridership_trend.png)
 
----
+### Subway Recovery as % of Pre-Pandemic Ridership
+![Percent Recovery](subway_recovery_percent_rolling.png)
 
-## 🚀 Takeaway
-This project demonstrates how data analysis can reveal real-world events and trends. It highlights the impact of COVID-19 on urban transportation and the gradual recovery of ridership over time.
-
+*Data Source: NYC MTA Daily Ridership, downloaded from NYC Open Data.*
