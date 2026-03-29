@@ -16,15 +16,15 @@ It visualizes how ridership changed over time, focusing on the **impact of COVID
 ## 🛠 Tools Used
 - Python  
 - Pandas for data cleaning & analysis  
-- Matplotlib for visualization  
+- Matplotlib for data visualization  
 - Jupyter Notebook for interactive exploration
 
 ---
 
 ## 🔑 Key Insights
-- Subway ridership **dropped sharply** in March 2020  
-- Recovery has been **gradual with fluctuations**  
-- Rolling averages **highlight overall trends** and smooth daily volatility
+- **Ridership dropped sharply in March 2020**  
+- **Recovery has been gradual with fluctuations**  
+- **Rolling averages highlight overall trends** and smooth daily volatility
 
 ---
 
@@ -57,4 +57,4 @@ NYC MTA Daily Ridership, downloaded from [NYC Open Data](https://opendata.cityof
 
 ---
 
-*This project demonstrates real-world data analysis, visualization, and communication of trends — perfect for a portfolio or resume link.*
+*This project demonstrates real-world data analysis, visualization, and clear communication of trends — perfect for a portfolio or resume link.*
