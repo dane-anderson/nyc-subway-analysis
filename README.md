@@ -1,5 +1,6 @@
 # 🚇 NYC Subway Ridership Analysis
 👉 Key insight: NYC subway ridership collapsed ~90% in March 2020 and has not fully recovered to pre-pandemic levels.
+
 Data-driven analysis of New York City subway ridership trends, focusing on the impact of COVID-19 and long-term recovery patterns.
 
 
