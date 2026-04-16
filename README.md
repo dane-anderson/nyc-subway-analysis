@@ -23,6 +23,19 @@ The project focuses on:
 
 This project demonstrates real-world data analysis, visualization, and clear communication of insights.
 
+## 📈 Key Visualizations
+
+### 1️⃣ Total Subway Ridership Over Time
+![Ridership Trends](ridership_chart.png)
+
+*Daily subway ridership showing the sharp COVID-19 collapse in March 2020 and gradual recovery.*
+
+---
+
+### 2️⃣ Recovery vs Pre-Pandemic Baseline
+![Recovery Percent](subway_recovery_percent_rolling.png)
+
+*Ridership as a percentage of pre-pandemic levels using a 30-day rolling average to highlight long-term trends.*
 ---
 
 ## ✨ Features
