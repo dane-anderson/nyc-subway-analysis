@@ -6,7 +6,7 @@ Data-driven analysis of New York City subway ridership trends, focusing on the i
 
 ---
 
-## 🧠 Overview
+## Overview
 
 Using NYC Open Data, this analysis explores how subway usage changed during and after the COVID-19 pandemic.
 
